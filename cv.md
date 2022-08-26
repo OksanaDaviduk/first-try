@@ -1,11 +1,11 @@
 # OKSANA DAVIDUK
 ![photo] (desktop/IMG_3605-01.JPEG)
 ## Contact: 
-  *Phone:* +3752920031640
-  *E-mail:* sanadav@gmail.com
-  *Telegram:* @jikolmix 
-  [github] (https://github.com/OksanaDaviduk)
-  [Linkedin] (https://www.linkedin.com/in/jikolmix/)
+  *Phone:* +3752920031640 <br/>
+  *E-mail:* sanadav@gmail.com <br />
+  *Telegram:* @jikolmix <br />
+  [github] (https://github.com/OksanaDaviduk) <br />
+  [Linkedin] (https://www.linkedin.com/in/jikolmix/) <br />
  ## About myself:
  I am beginning frontend developer. Right now I'm studying JavaScript.
  ## Code example:
@@ -14,10 +14,11 @@
 }
 '''
 ## Courses
-* Automated Testing Foundations from Learn.Epam > in progress
-*  JS/FE Pre-School from rsschool > in progress
+* Automated Testing Foundations from Learn.Epam (in progress)
+*  JS/FE Pre-School from rsschool (in progress)
+* Git course from Bogdan Stashchuk
 ## Languages
-* Russion - native
-* Belorusыion - second native
+* Russian - native
+* Belorussion - second native
 * English - A2
 * Polish - A1
