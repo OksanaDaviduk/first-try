@@ -6,13 +6,13 @@
   *Telegram:* @jikolmix <br />
   *[GitHub](https://github.com/OksanaDaviduk)* <br />
   *[Linkedin](https://www.linkedin.com/in/jikolmix/)* <br />
- ## About myself
- I am beginning frontend developer. Right now I'm studying JavaScript.
- ## Code example
- ''' function sum(a, b) {
+## About myself
+I am beginning frontend developer. Right now I'm studying JavaScript.
+## Code example
+``` function sum(a, b) {
     return a + b
 }
-'''
+```
 ## Courses
 * Automated Testing Foundations from Learn.Epam (in progress)
 *  JS/FE Pre-School from rsschool (in progress)
