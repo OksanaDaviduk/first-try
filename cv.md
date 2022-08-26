@@ -1,11 +1,11 @@
 # OKSANA DAVIDUK
-![photo] (desktop/IMG_3605-01.JPEG)
+![Image](desktop/IMG_3605-01.JPEG)
 ## Contact: 
-  *Phone:* +3752920031640 <br/>
+  *Phone:* +375292031640 <br/>
   *E-mail:* sanadav@gmail.com <br />
   *Telegram:* @jikolmix <br />
-  [github] (https://github.com/OksanaDaviduk) <br />
-  [Linkedin] (https://www.linkedin.com/in/jikolmix/) <br />
+  *[github]*(https://github.com/OksanaDaviduk) <br />
+  *[Linkedin]*(https://www.linkedin.com/in/jikolmix/) <br />
  ## About myself:
  I am beginning frontend developer. Right now I'm studying JavaScript.
  ## Code example:
